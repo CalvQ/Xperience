@@ -1,3 +1,5 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-
 # Xperience
+ > Goal: Create a flexible framework for evolutionary neural networks.
+ > Allow the framework to be quickly adaptable to a variety of problems/applications.
+ > Started on March 14, 2019. (PI Day!)
+
