@@ -1,4 +1,4 @@
-![Xperience](https://raw.githubusercontent.com/CalvQ/Xperience/images/Xperience.png)
+![Xperience](/images/Xperience.png)
 # Xperience
  > Goal: Create a flexible framework for evolutionary neural networks.
  
