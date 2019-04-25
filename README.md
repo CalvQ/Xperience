@@ -1,4 +1,4 @@
-![Xperience](/images/Xperience.png)
+![Xperience](/resources/Xperience.png)
 # Xperience
  > Goal: Create a flexible framework for evolutionary neural networks.
  
