@@ -15,7 +15,7 @@
 
 ### Setup
 
-- This project is dependent upon 'Python NEAT <https://neat-python.readthedocs.io/en/latest/>'
+- This project is dependent upon `Python NEAT <https://neat-python.readthedocs.io/en/latest/>` _
 
  > First update then install
 
