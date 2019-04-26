@@ -15,20 +15,12 @@
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
+- This project is dependent upon 'Python NEAT <https://neat-python.readthedocs.io/en/latest/>'
 
- > update and install this package first
+ > First update then install
 
 ```shell
 $ brew update
-$ brew install fvcproductions
+$ brew install neat neat-python
 ```
-
- > now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
 ---
