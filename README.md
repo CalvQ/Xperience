@@ -18,9 +18,10 @@
 - This project is dependent upon [Python NEAT](https://neat-python.readthedocs.io/en/latest/)
 
  > First update then install
+ > Python 3+ is used
 
 ```shell
-$ brew update
-$ brew install neat neat-python
+$ python3 -m pip install --upgrade pip
+$ pip install neat neat-python
 ```
 ---
