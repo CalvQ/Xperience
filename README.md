@@ -13,12 +13,12 @@
 
 - Clone this repo to your local machine using `https://github.com/CalvQ/Xpereince`
 
-### Setup
+### Dependencies
 
 - This project is dependent upon [Python NEAT](https://neat-python.readthedocs.io/en/latest/)
+- Python 3+
 
  > First update then install
- > Python 3+ is used
 
 ```shell
 $ python3 -m pip install --upgrade pip
